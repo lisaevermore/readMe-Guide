@@ -20,6 +20,9 @@ The application will be invoked by using the following command:
 node index.js
 ```
 
+## Demo Video of the application
+https://user-images.githubusercontent.com/70776430/220812357-dbff4158-294d-4d74-8995-d360e570dfac.mp4
+
 ## License
 This application is covered under the MIT License.
 
