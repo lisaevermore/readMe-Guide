@@ -70,7 +70,7 @@ function init() {
     inquirer.prompt(questions).then(function(answers){
         //console.log(answers);
         console.log("Please wait while I create your README.md file")
-         return writeToFile("readMe.md", generateMarkdown(answers))
+         return writeToFile("README.md", generateMarkdown(answers))
      
        });
 }

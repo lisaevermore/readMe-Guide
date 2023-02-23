@@ -4,11 +4,12 @@ function generateMarkdown(data) {
   ## By: ${data.creator}
 
   ## Table of Contents
-    1. [Description](#Description)
-    2. [Usage](#Usage)
-    3. [Tests](#Tests)  
-    4. [Questions](#Questions)
-    5. [License](#License)  
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license) 
   
   
 ## Description 
